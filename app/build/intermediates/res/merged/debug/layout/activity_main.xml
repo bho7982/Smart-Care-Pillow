@@ -1,0 +1,180 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kr.re.DDil.CarePillow.MainActivity"
+    tools:ignore="MergeRootFrame" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        android:focusable="true"
+        android:focusableInTouchMode="true">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="DATE"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_DATE"
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="반갑습니다. "
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView4"
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+            <TextView
+                android:text="Guest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView_UserName"
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+            <TextView
+                android:text="님"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView12"
+                android:gravity="center"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textViewTerminal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#fdfdff"
+            android:scrollbars="vertical"
+            android:textSize="12sp"
+            android:layout_weight="0.73" />
+
+        <Button
+            android:text="UITest"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/button6" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:text="기기연결"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/Connect_Device_Button"
+                android:layout_weight="1"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_weight="0.19"
+            android:layout_height="40dp">
+
+            <Button
+                android:text="조도 기록"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/button16"
+                android:layout_weight="1" />
+
+            <Button
+                android:text="호흡 기록"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/button15"
+                android:layout_weight="1" />
+
+            <Button
+                android:text="코골이 기록"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:id="@+id/button14"
+                android:layout_weight="0.51" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_weight="0.04"
+            android:layout_height="80dp">
+
+            <Button
+                android:text="무호흡 기록"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/button18"
+                android:layout_weight="1" />
+
+            <Button
+                android:text="베개 제어"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/button19"
+                android:layout_weight="1" />
+
+            <Button
+                android:text="사용자 등록\n및 설정"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/button17"
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            >
+
+
+            <EditText
+                android:id="@+id/editTextInput"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ems="10"
+                android:inputType="textPersonName" >
+
+                <requestFocus />
+            </EditText>
+
+            <Button
+                android:id="@+id/buttonSend"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:text="Send" />
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</FrameLayout>

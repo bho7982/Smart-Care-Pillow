@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="kr.re.DDil.BluetoothEcho"
+    android:versionCode="1"
+    android:versionName="1.0"
+    >
+
+    <uses-permission android:name="android.permission.BLUETOOTH" /> 
+	<uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19"/>
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo2"
+        android:label="Care Pillow"
+        android:theme="@style/AppTheme" 
+        >
+        <activity
+            android:name="kr.re.DDil.UI.Splash"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:screenOrientation="portrait"
+            >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+        </intent-filter>
+        </activity>>
+
+        <activity
+            android:name="kr.re.DDil.CarePillow.MainActivity"
+            android:label="Care Pillow"
+            android:configChanges="screenSize|orientation|keyboard"
+            android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+
+        <activity android:name="kr.re.DDil.CarePillow.UserSetting"></activity>
+        <activity android:name="kr.re.DDil.Graph.LuxGraph"></activity>
+        <activity android:name="kr.re.DDil.Graph.BreathGraph"></activity>
+        <activity android:name="kr.re.DDil.Graph.SnoreGraph"></activity>
+        <activity android:name="kr.re.DDil.Graph.ApneaGraph"></activity>
+        <activity android:name="kr.re.DDil.CarePillow.PillowControl"></activity>
+        <activity android:name="kr.re.DDil.UI.Graph_UI"></activity>
+        <activity android:name="kr.re.DDil.UI.Graph_UI2"></activity>
+
+        <activity android:name="kr.re.DDil.Bluetooth.BluetoothSerialClient$BluetoothUpActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:configChanges="orientation|screenSize|keyboard">
+        </activity>
+
+    </application>
+
+</manifest>

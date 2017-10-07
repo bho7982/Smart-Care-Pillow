@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\build\\intermediates\\res\\merged\\release\\layout\\user_setting.xml",
+        "source": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\src\\main\\res\\layout\\user_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\build\\intermediates\\res\\merged\\release\\layout\\splash.xml",
+        "source": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\build\\intermediates\\res\\merged\\release\\layout\\user_add_dialog.xml",
+        "source": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\src\\main\\res\\layout\\user_add_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\build\\intermediates\\res\\merged\\release\\layout\\pillowair_setting.xml",
+        "source": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\src\\main\\res\\layout\\pillowair_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\build\\intermediates\\res\\merged\\release\\layout\\graph_lux.xml",
+        "source": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\src\\main\\res\\layout\\graph_lux.xml"
+    },
+    {
+        "merged": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\build\\intermediates\\res\\merged\\release\\layout\\item_device.xml",
+        "source": "C:\\Users\\inthetech\\Desktop\\test\\Care Pillow\\app\\src\\main\\res\\layout\\item_device.xml"
+    }
+]

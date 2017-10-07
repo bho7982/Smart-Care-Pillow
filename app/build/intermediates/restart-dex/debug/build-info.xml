@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="1823590009991420"
+    token="7485544296221871803"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="452" />
+    <task
+        name="verifier"
+        duration="81" />
+
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_6d3a79bbbef998f06e3a63d84865d1b605e60244\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8047df31d93c5014e840d299949d2cea5494db64\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_3f2b315aaa89804e8c5d80b30f1cd4f6e8ca4971\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6051ff9da20af8d3277b56758908682159563f70\classes.dex"
+        type="DEX" />
+    <artifact
+        location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\2\mpandroidchartlibrary-2-2-4_e7a5ee77344b791156b8427a224d59237560c303\classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="1814949005917217"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1823590009991420"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_6d3a79bbbef998f06e3a63d84865d1b605e60244\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8047df31d93c5014e840d299949d2cea5494db64\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_3f2b315aaa89804e8c5d80b30f1cd4f6e8ca4971\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6051ff9da20af8d3277b56758908682159563f70\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\2\mpandroidchartlibrary-2-2-4_e7a5ee77344b791156b8427a224d59237560c303\classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

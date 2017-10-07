@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\inthetech\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_6d3a79bbbef998f06e3a63d84865d1b605e60244\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inthetech\Desktop\test\Care Pillow\app\libs\mpandroidchartlibrary-2-2-4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5455fb794bfcbeb75da252dffd907794614f7fd">
+        <dex dex="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\2\mpandroidchartlibrary-2-2-4_e7a5ee77344b791156b8427a224d59237560c303\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2102d9004ea9086a506a6f0889a944a87f70b83a">
+        <dex dex="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_6051ff9da20af8d3277b56758908682159563f70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2443a025a804395c70e61b59c3ef6ab902cfc684">
+        <dex dex="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8047df31d93c5014e840d299949d2cea5494db64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\inthetech\Desktop\test\Care Pillow\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_3f2b315aaa89804e8c5d80b30f1cd4f6e8ca4971\classes.dex" />
+    </item>
+
+</items>
